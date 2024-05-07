@@ -1,0 +1,5 @@
+node_modules
+.env
+virtual_env
+migrations
+__pycache__
